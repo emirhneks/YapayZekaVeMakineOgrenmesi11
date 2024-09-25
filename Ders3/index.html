@@ -3,7 +3,7 @@
 <div><canvas id="canvas"></canvas></div>
 <div id="label-container"></div>
 
-<audio src="wakeupaudio">
+<audio id="wakeupaudio">
   <source src="wakeupaudio.mp3" type="audio/mpeg" />
   Ses dosyası desteklenmiyor...
 </audio>
@@ -53,9 +53,6 @@
     for (let i = 0; i < maxPredictions; i++) {
       // and class labels
       labelContainer.appendChild(document.createElement("div"));
-
-      if (prediction[0].probability.toFixed(2) >= 0.75) pauseaud();
-      else playaud();
     }
   }
 
@@ -76,6 +73,9 @@
       const classPrediction =
         prediction[i].className + ": " + prediction[i].probability.toFixed(2);
       labelContainer.childNodes[i].innerHTML = classPrediction;
+
+      if (prediction[0].probability.toFixed(2) >= 0.75) pauseaud();
+      else playaud();
     }
 
     // finally draw the poses
