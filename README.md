@@ -2,20 +2,26 @@
 
 ## 1. Dönem
 
-### 1. Ders
-- **Kedi - Köpek Projesi** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders1)
+### 1. Ders: Kedi-Köpek Projesi
 
-### 2. Ders
-- **Atık Ayrıştırma Projesi** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders2)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders1)
 
-### 3. Ders
-- **Uyku Önleyici Projesi** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders3)
+### 2. Ders: Atık Ayrıştırma Projesi
 
-### 4. Ders
-- **Parmak Ölçer Projesi** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders4)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders2)
 
-### 5. Ders
-- **NumPy** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders5)
+### 3. Ders: Uyku Önleyici Projesi
 
-### 6. Ders
-- **Enstrüman Ölçer Projesi** [(🔗)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders6)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders3)
+
+### 4. Ders: Parmak Ölçer Projesi
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders4)
+
+### 5. Ders: NumPy
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders5)
+
+### 6. Ders: Enstrüman Ölçer Projesi
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders6)
