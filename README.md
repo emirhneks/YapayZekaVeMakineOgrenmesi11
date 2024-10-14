@@ -25,3 +25,7 @@
 ### 6. Ders: Enstrüman Ölçer Projesi
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders6)
+
+### 7. Ders: Taş-Kağıt-Makas Projesi
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders7)
