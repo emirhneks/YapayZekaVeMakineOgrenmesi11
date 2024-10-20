@@ -29,3 +29,7 @@
 ### 7. Ders: Taş-Kağıt-Makas Projesi
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders7)
+
+### 8. Ders: Veri Görselleştirme (E Harfi)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders8)
