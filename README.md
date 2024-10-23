@@ -33,3 +33,7 @@
 ### 8. Ders: Veri Görselleştirme (E Harfi)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders8)
+
+### 9. Ders: Yorum Analizi
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders9)
