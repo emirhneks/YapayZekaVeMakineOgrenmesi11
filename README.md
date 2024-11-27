@@ -40,4 +40,4 @@
 
 ### 10. Ders: Rakam Tanıma Uygulaması
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders9)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/emirhneks/YapayZekaVeMakineOgrenmesi11/tree/main/Ders10)
